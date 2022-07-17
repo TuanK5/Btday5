@@ -1,0 +1,73 @@
+
+body{margin-left: 3cm;
+margin-right: 3cm;
+}
+.all{height: auto;
+width: 80rem;
+background-color: blue;
+}
+h1{text-align: center;}
+img{
+    height: 30rem;
+    width: 40rem;
+    margin-left: 14px;
+}
+.box1{display: flex;}
+.anhchon{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.qualai{margin-top: 2cm;}
+.anh{
+    display: flex;
+}
+.anhchon img {
+    margin-top: 1cm;
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+ul{
+    display: flex;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h4{   color: transparent;
+    text-shadow: 0 0 1px rgb(96, 93, 93);}
+.star1{
+    display:flex;
+}
+.sao{color: yellow;}
+.conten1{
+    margin-left: 30px;
+}
+.sizecolor{
+    margin-top: 1cm;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 4cm;
+}
+.p2{margin-top: 20px;}
+.conten2{text-align: center;}
+.link{color: red;}
+button.chon{
+    margin-top: 1cm;
+    width: 4cm;
+    height: 2rem;
+    background-color: black;
+    color: white;
+}
+button.soluong{
+    width: 50px;
+}
+button.tanggiam{
+    width: 25px;
+    background-color: black;
+    color: aliceblue;
+}
+.conten1 h2{margin: 0;}
+.conten1 ul,.conten1 p{margin: 5px;}
+.how{margin-top: 1cm;}
+select{width: 5cm;
+height: 1cm;}
